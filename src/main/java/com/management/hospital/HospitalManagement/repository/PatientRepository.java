@@ -10,6 +10,5 @@ import java.util.List;
 @Repository
 public interface PatientRepository extends JpaRepository<Patient,Integer> {
 
-    @Query(value = "value= select * from patient",nativeQuery = true)
-    List<Patient> getAllPatient();
+
 }
