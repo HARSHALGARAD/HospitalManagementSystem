@@ -1,4 +1,4 @@
-package com.management.hospital.HospitalManagement.seviceImpl;
+package com.management.hospital.HospitalManagement.serviceImpl;
 
 import com.management.hospital.HospitalManagement.entity.Patient;
 import com.management.hospital.HospitalManagement.repository.PatientRepository;
